@@ -1,0 +1,36 @@
+{
+  "name": "react-admin-sortable-list",
+  "version": "1.0.0",
+  "description": "<SortableList> component for React Admin",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chrisfitkin/react-admin-sortable-list.git"
+  },
+  "keywords": [
+    "react-admin",
+    "sortable",
+    "list"
+  ],
+  "author": "Chris Fitkin @chrisfitkin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chrisfitkin/react-admin-sortable-list/issues"
+  },
+  "homepage": "https://github.com/chrisfitkin/react-admin-sortable-list#readme",
+  "devDependencies": {
+    "assert": "^1.4.1",
+    "babel-cli": "^6.26.0",
+    "enzyme": "^3.4.1"
+  },
+  "dependencies": {
+    "@material-ui/core": "^1.4.3",
+    "classnames": "^2.2.6",
+    "ra-core": "^2.2.0",
+    "react": "^16.4.2",
+    "recompose": "^0.28.2"
+  }
+}
